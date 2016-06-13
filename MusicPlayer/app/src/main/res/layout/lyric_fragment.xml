@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:lrc="http://schemas.android.com/apk/res-auto">
+
+    <chanlytech.musicplayer.view.LrcView
+        android:id="@+id/lyricview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        lrc:textSize="18sp"
+        lrc:normalTextColor="@android:color/white"
+        lrc:currentTextColor="@color/main"
+        lrc:dividerHeight="20dp"
+        lrc:rows="9"  />
+</LinearLayout>

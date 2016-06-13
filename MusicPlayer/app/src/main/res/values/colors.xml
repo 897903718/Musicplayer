@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coffee">#7D5217</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#333333</color>
+    <color name="line_gray">#F7F7F7</color>
+    <color name="main_color">#66C8C9</color>
+    <color name="main_bgcolor">#F7F7F7</color>
+    <color name="line">#ffd3dde6</color>
+    <color name="main_buttom_color">#F7F7F7</color>
+    <color name="main_test_color">#F7F7F7</color>
+    <color name="main_red">#DD7075</color>
+    <color name="background_tab_pressed">#A5A5A5</color>
+    <color name="main">#FF31C27C</color>
+
+    <color name="seek_bar_background">#515151</color>
+    <color name="seek_bar_progress">#67c5ff</color>
+    <color name="seek_bar_second_progress">#7ff9f9f9</color>
+    <color name="mini_lyric_setting_background_color">#d9000000</color>
+
+    <color name="text_tabitem_disabled">#1B3B43</color>
+    <color name="text_tabitem_selected">#4784af</color>
+    <color name="setting_listview_divider_color">#0fffffff</color>
+    <color name="setting_listview_header_or_footer_divider_color">#00c7d9e1</color>
+    <color name="setting_checked">#fff53172</color>
+    <color name="setting_unchecked">#CCFFFFFF</color>
+    <color name="view_border_line">#aab0b4</color>
+    <color name="transparent">#00000000</color>
+    <color name="translucent">#5f000000</color>
+    <color name="setting_background_color">#f2f2f2</color>
+    <color name="text_search_highlight_color">#5697cc</color>
+    <color name="gray_text_color">#ffababab</color>
+    <color name="default_action_bar_color">#FFF</color>
+
+    <!-- musiccircle-->
+    <color name="post_text_title">#5293B9</color>
+    <color name="post_text_artist">#575757</color>
+    <color name="musiccircle_tab_list_item_color">#5c5656</color>
+
+    <!-- version -->
+    <color name="default_system_bar_background">#00000000</color>
+    <color name="dialog_background">#FFFFFF</color>
+    <color name="dialog_upgrade_title">#444a50</color>
+    <!-- 音效 整体偏黑色风格 -->
+    <color name="effect_dialog_background">#1f1f1f</color>
+    <color name="effect_gray">#4f5051</color>
+    <color name="effect_blue">#51d8ff</color>
+    <color name="effect_equalizer_item">#a0939495</color>
+    <color name="singer_text_color">#b2b2b2</color>
+
+    <color name="layout_background">#f2f2f2</color>
+    <color name="update_dot_color">#f82727</color>
+
+
+
+    <color name="mask_background_color">#0F0F</color>
+
+    <color name="unicom_flow_background_color">#ffffff</color>
+    <color name="unicom_flow_title_color">#999999</color>
+
+    <color name="apshare_text_color_sub_blue">#8031434f</color>
+    <color name="apshare_text_color_main">#333333</color>
+
+    <color name="us_gray_text_color">#ffababab</color>
+
+    <color name="us_mask_background_color">#0F0F</color>
+    <color name="us_transparent">#00000000</color>
+    <color name="us_divider_line">#0FFFFFFF</color>
+
+    <color name="us_color_f53172">#F53172</color>
+    <color name="us_color_50484b">#50484b</color>
+    <color name="us_color_fc3e2d">#FC3E2D</color>
+    <color name="us_color_bcbab9">#BCBAB9</color>
+    <color name="us_color_888888">#888888</color>
+    <color name="us_color_ffffff">#ffffff</color>
+    <color name="us_color_ffffff_6p">#0FFFFFFF</color>
+    <color name="us_color_ffffff_10p">#1Affffff</color>
+    <color name="us_color_ffffff_20p">#33ffffff</color>
+    <color name="us_color_ffffff_50p">#7Fffffff</color>
+    <color name="us_color_ffffff_40p">#66ffffff</color>
+    <color name="us_color_ffffff_80p">#CCFFFFFF</color>
+    <color name="us_color_d8d8d8">#d8d8d8</color>
+    <color name="us_color_000000_10p">#1A000000</color>
+    <color name="us_color_000000_15p">#26000000</color>
+    <color name="us_color_000000_60p">#99000000</color>
+    <color name="color_4df4f4f4">#B2f4f4f4</color>
+    <color name="us_color_ff5e00">#ff5e00</color>
+    <color name="us_color_ff0000_10p">#1aff0000</color>
+    <color name="us_color_e3e4e6">#e3e4e6</color>
+    <color name="us_color_f4f4f4">#f4f4f4</color>
+
+
+    <color name="us_tt_c0_a100">#F53172</color>
+    <color name="us_tt_c0_a80">#CCF53172</color>
+    <color name="us_tt_c1_a100">#818FFF</color>
+    <color name="us_tt_c1_a20">#33818FFF</color>
+    <color name="us_tt_c1_a6">#0F818FFF</color>
+    <color name="us_tt_c2_a100">#FFFFFF</color>
+    <color name="us_tt_c2_a80">#CCFFFFFF</color>
+    <color name="us_tt_c2_a50">#7FFFFFFF</color>
+    <color name="us_tt_c2_a20">#33FFFFFF</color>
+    <color name="us_tt_c2_a6">#0FFFFFFF</color>
+    <color name="us_tt_c3_a100">#000000</color>
+    <color name="us_tt_c3_a15">#D8000000</color>
+    <color name="us_tt_c4_a100">#f93B3B</color>
+    <color name="us_tt_c4_a110">#5DAC81</color>
+    <color name="us_tt_c4_a120">#91989F</color>
+
+</resources>
